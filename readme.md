@@ -71,6 +71,16 @@ Go-CQHTTP-YesBot 是采用python编写，**可拓展的**，**适合新手**的�
 
 用于python学习和交流
 
+~~造福群友~~(不是)
+
+## 示例
+
+![image.png](https://i.loli.net/2021/01/28/4pes3iQaO1yETGM.png)
+
+![image.png](https://i.loli.net/2021/01/28/njycUxfBGpvm1QY.png)
+
+![image.png](https://i.loli.net/2021/01/28/f4gV32lnivEACKT.png)
+
 ## 文档
 
 建设中...
