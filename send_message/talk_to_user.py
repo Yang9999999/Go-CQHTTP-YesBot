@@ -14,14 +14,14 @@ def talk_to_user(rev,talk_data):#这里可以DIY对私聊和群聊中@yes酱的�
 	if_help = help_menu(msg)
 	if if_help[0] == True:
 		return if_help[1]
-	#--------------------------------------------------------------------------------------添加数据
-	if_add = add_data(msg,talk_data)
-	if if_add[0] == True:
-		return if_add[1]
 	#--------------------------------------------------------------------------------------删除数据
 	if_del = del_data(msg,talk_data)
 	if if_del[0] == True:
 		return if_del[1]
+	#--------------------------------------------------------------------------------------添加数据
+	if_add = add_data(msg,talk_data)
+	if if_add[0] == True:
+		return if_add[1]
 	#--------------------------------------------------------------------------------------发送涩图
 	if_setu = ghs_pic(msg)
 	if if_setu[0] == True:

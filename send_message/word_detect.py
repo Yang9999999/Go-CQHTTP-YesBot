@@ -56,10 +56,10 @@ def del_data(del_data,all_data):
 			if len(all_data[i][1]) == 1:
 				all_data.pop(i)
 				save_data(all_data)
-				return [True]
+				return [True,"已经删除啦~"]
 			all_data[i][1].remove(msg[1])
 			save_data(all_data)
-			return [True]
+			return [True,"已经删除啦~"]
 	return [True,"删除出错啦~"]
 
 
