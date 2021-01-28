@@ -46,15 +46,21 @@ Go-CQHTTP-YesBot 是采用python编写，**可拓展的**，**适合新手**的�
 
 ```json
 {
-    "path":"/C:\\Users\\86175\\Desktop\\mybot\\pic\\mao\\",    储存猫猫图的路径  Linux下"/root/mybot1/pic/mao/"
-	"ban_words":["科学上网","黑产","翻墙"],    禁言关键词
-    "apikey":"xxxxxxxxxxxxxxxx",    涩图API的apikey
-    "group":[123456789,987654321],     Yes酱管理的群号
-    "self_qq":"2013996860"       Yes酱的QQ号
+    "path":"/C:\\Users\\86175\\Desktop\\mybot\\pic\\mao\\",
+	"ban_words":["科学上网","黑产","翻墙"], 
+    "apikey":"xxxxxxxxxxxxxxxx",
+    "group":[123456789,987654321],
+    "self_qq":"2013996860"
 }
 ```
 
+分别为 
 
+- 储存猫猫图的路径  Linux下为"/root/mybot1/pic/mao/"
+- 禁言关键词
+- 涩图API的apikey
+- Yes酱管理的群号
+- Yes酱的QQ号
 
 ## API
 
@@ -65,3 +71,5 @@ Go-CQHTTP-YesBot 是采用python编写，**可拓展的**，**适合新手**的�
 用于python学习和交流
 
 ## 文档
+
+建设中...
