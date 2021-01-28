@@ -83,4 +83,4 @@ Go-CQHTTP-YesBot 是采用python编写，**可拓展的**，**适合新手**的�
 
 ## 文档
 
-建设中...
+http://www.yang99.top/index.php/archives/18/
