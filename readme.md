@@ -33,6 +33,8 @@ _✨ 基于 [go-cqhttp](https://github.com/Mrs4s/go-cqhttp)，使用[OneBot](htt
 
 Go-CQHTTP-YesBot 是采用python编写，**可拓展的**，**适合新手**的入门级QQ机器人插件
 
+感谢@asda做的docker版本`docker pull zhengfan2014/yesbot`
+
 ## 目前拥有的功能
 
 - 发送setu/猫猫图返回一张涩图/猫猫图
